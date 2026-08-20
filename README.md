@@ -2,7 +2,7 @@
 Predicting the remaining useful life of turbofan engines using deep learning and NASA C-MAPSS dataset
 
 
-7th semester project using the data from the NASA C-MAPSS FD001 project. The prime target of this project is to predict the Remaining Useful life (RUL) of the turbofan engines for specific application from a sensor data input.
+It was my Bachelor's (7th sem) project using the data from the NASA C-MAPSS FD001 project. The prime target of this project is to predict the Remaining Useful life (RUL) of the turbofan engines for specific application from a sensor data input.
 
 In this project, comparing 4 deep learning models:
 
